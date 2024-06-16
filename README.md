@@ -18,7 +18,7 @@
 **파스타 레시피ㅎㅎ**
 
 ### 📫 Contact
-**hoo@naver.com**
+**kupa10000@naver.com**
 
 ### ⚡ Fun Fact
 **취미로 피아노를 배우는 중입니닷**
@@ -28,16 +28,17 @@
 ## Projects
 
 ### 나스닥 나랑해 Project
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepository)](https://github.com/yourusername/yourrepository)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KwonYeonghoo&repo=nasdaq)](https://github.com/KwonYeonghoo/nasdaq)
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonYeonghoo&show_icons=true&theme=radical)
 
 ---
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KwonYeonghoo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/k_0_hooo)
 
 ---
 
