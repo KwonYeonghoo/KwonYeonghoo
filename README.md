@@ -29,6 +29,8 @@
 
 ### 나스닥 나랑해 Project
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KwonYeonghoo&repo=nasdaq)](https://github.com/KwonYeonghoo/nasdaq)
+### bridze Project
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KwonYeonghoo&repo=bridze)](https://github.com/KwonYeonghoo/bridze)
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonYeonghoo&show_icons=true&theme=radical)
