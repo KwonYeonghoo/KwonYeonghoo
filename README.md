@@ -1,4 +1,4 @@
-# 권영후 | Aspiring Backend Developer 🙂 
+# 권영후 | 엉덩이가 무거운 백엔드 개발자 🙂 
 
 ---
 
