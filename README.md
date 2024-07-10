@@ -3,7 +3,7 @@
 ---
 
 ### 🔭 Current Work
-**나스닥 나랑해 project**
+**주식 개인 프로젝트 & 알고리즘**
 
 ### 🌱 Learning
 **웹개발 & 데이터엔지니어링**
@@ -14,16 +14,13 @@
 ### 🤔 Seeking Help With
 **서비스 기획**
 
-### 💬 Ask Me About
-**파스타 레시피ㅎㅎ**
-
 ### 📫 Contact
 **kupa10000@naver.com**
 
-### ⚡ Fun Fact
-**취미로 피아노를 배우는 중입니닷**
-
 ---
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonYeonghoo&show_icons=true&theme=radical)
+
 
 ## Projects
 
@@ -31,9 +28,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KwonYeonghoo&repo=nasdaq)](https://github.com/KwonYeonghoo/nasdaq)
 ### bridze Project
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KwonYeonghoo&repo=bridze)](https://github.com/KwonYeonghoo/bridze)
-
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonYeonghoo&show_icons=true&theme=radical)
 
 ---
 
