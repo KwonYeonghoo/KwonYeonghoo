@@ -24,7 +24,7 @@
 
 ## Projects
 ### 개인 프로젝트(2024.07 ~ 진행중)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KwonYeonghoo&repo=nasdaq)](https://github.com/KwonYeonghoo/stock-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KwonYeonghoo&repo=stock-project)](https://github.com/KwonYeonghoo/stock-project)
 ### 나스닥 나랑해 Project(2024.05 ~ 2024.06)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KwonYeonghoo&repo=nasdaq)](https://github.com/KwonYeonghoo/nasdaq)
 ### bridze Project(2023.07 ~ 2023.08)
