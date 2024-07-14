@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/k_0_hooo)
 ---
 
-### 🏃 Current Work
+### 🏃현재 작업중
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KwonYeonghoo&repo=stock-project)](https://github.com/KwonYeonghoo/stock-project)
 ---
 
