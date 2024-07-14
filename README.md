@@ -9,6 +9,7 @@
 
 ### 🏃 Current Work
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KwonYeonghoo&repo=stock-project)](https://github.com/KwonYeonghoo/stock-project)
+---
 
 ### 📱기술 스택
 **프로그래밍 언어**
