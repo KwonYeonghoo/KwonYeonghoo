@@ -17,6 +17,7 @@
 
 ### 🏃 현재 작업중 🏃
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KwonYeonghoo&repo=stock-project)](https://github.com/KwonYeonghoo/stock-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KwonYeonghoo&repo=Baekjoon_Algorithm)](https://github.com/KwonYeonghoo/Baekjoon_Algorithm)
 ---
 
 ### 🛠️ 기술 스택 🛠️
