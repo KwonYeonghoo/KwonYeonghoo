@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=🕺%20Hi!%20I'm%20Hoo%20🕺&fontSize=50&fontAlignY=35&desc=Aspiring%20Backend-developer&descAlign=50&descAlignY=50&descSize=25)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=🕺%20Hi!%20I'm%20Hoo%20🕺&fontSize=50&fontAlignY=35)
 
 
 <p align="center">
@@ -16,7 +16,6 @@
 ---
 
 ### 🏃 현재 작업중 🏃
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KwonYeonghoo&repo=stock-project)](https://github.com/KwonYeonghoo/stock-project)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KwonYeonghoo&repo=Baekjoon_Algorithm)](https://github.com/KwonYeonghoo/Baekjoon_Algorithm)
 ---
 
