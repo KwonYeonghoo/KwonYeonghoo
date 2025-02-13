@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=🕺%20후's%20깃헙%20🕺&fontSize=50&fontAlignY=35)
-
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFDA03&height=150&section=header&text=🕺%20hoo's%20깃헙%20🕺)
 
 <p align="center">
   <a href="https://linkedin.com/in/영후-권-2b29702b1">
@@ -15,4 +14,5 @@
 
 ---
 
-### 🛠️ 수리중
+### Studying...✏️
+
