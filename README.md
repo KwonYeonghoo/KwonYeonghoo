@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=🕺%20Hi!%20I'm%20Hoo%20🕺&fontSize=50&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=🕺%20후's%20깃헙%20🕺&fontSize=50&fontAlignY=35)
 
 
 <p align="center">
